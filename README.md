@@ -1,5 +1,5 @@
 # Antenna-Patterns
-some antenna pattern(Ideal Dipole, Sinusine, Some Array Anttena)  - written in python
+some antenna pattern(Ideal Dipole, Sinusine and some Array Anttena)  - written in python
 
 
 
